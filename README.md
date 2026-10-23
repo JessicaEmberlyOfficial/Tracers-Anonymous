@@ -1,2 +1,2 @@
 # NOTICE
-(*.onion) support and a non GitHub domain will be coming shortly.
+(*.onion) support and a non GitHub domain (*.org) will be coming shortly.
